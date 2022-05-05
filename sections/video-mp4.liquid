@@ -93,6 +93,7 @@
             {%- elsif section.settings.video_url.type == 'vimeo' -%}
             <iframe title="{{ section.settings.title | escape }}" src="https://player.vimeo.com/video/{{ section.settings.video_url.id }}?autoplay=1&autopause=1{% if section.settings.autoplay %}&background=1&loop=1&muted=1{% endif %}&transparent=0&responsive=1&portrait=0&title=0&byline=0&color={{ settings.text_color | remove_first: '#' }}" allow="autoplay; encrypted-media;" allowfullscreen="allowfullscreen"></iframe>
           {%- endif -%}
+          <iframe src="https://drive.google.com/file/d/1GXFpB2DgrvbD2FA913RJsELKAwId6mrx/preview" width="640" height="480" allow="autoplay"></iframe>
         </template>
       </external-video>
     </div>
