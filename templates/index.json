@@ -383,6 +383,19 @@
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
       }
+    },
+    "1651786007ec26f7d7": {
+      "type": "video-mp4",
+      "settings": {
+        "subheading": "",
+        "title": "Quality Computer Systems",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "background_type": "full_width",
+        "video_size": "auto",
+        "autoplay": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
     }
   },
   "order": [
@@ -396,6 +409,7 @@
     "timeline",
     "featured-product",
     "text-with-icons",
-    "newsletter"
+    "newsletter",
+    "1651786007ec26f7d7"
   ]
 }
