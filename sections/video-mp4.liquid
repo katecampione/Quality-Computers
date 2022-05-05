@@ -66,7 +66,7 @@
 
   {%- capture video_content -%}
     <div class="video-section video-section--{% if section.settings.background_type == 'boxed' %}boxed{% else %}full{% endif %} video-section--{{ section.settings.video_size }}">
-      <external-video {% if section.settings.autoplay %}autoplay{% endif %} provider="{{ section.settings.video_url.type | escape }}" class="video-wrapper {% if section.settings.autoplay %}video-wrapper--inert{% endif %} {% if section.settings.background_type == 'full_width' and section.settings.video_size != 'auto' %}video-wrapper--cover{% endif %}">
+      <external-video {% if section.settings.autoplay %}autoplay{% endif %}  class="video-wrapper {% if section.settings.autoplay %}video-wrapper--inert{% endif %} {% if section.settings.background_type == 'full_width' and section.settings.video_size != 'auto' %}video-wrapper--cover{% endif %}">
         
 
           <iframe src="https://drive.google.com/file/d/1GXFpB2DgrvbD2FA913RJsELKAwId6mrx/preview" width="640" height="480" allow="autoplay"></iframe>
