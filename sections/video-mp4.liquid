@@ -88,10 +88,10 @@
         </div>
 
         <template>
-          {%- if section.settings.video_url.type == 'youtube' -%}
-            <iframe title="{{ section.settings.title | escape }}" src="https://www.youtube.com/embed/{{ section.settings.video_url.id }}?playsinline=1&autoplay=1{% if section.settings.autoplay %}&controls=0&mute=1&loop=1{% endif %}&playlist={{ section.settings.video_url.id }}&enablejsapi=1&rel=0&modestbranding=1&origin={{ 'https://' | append: request.host | url_encode }}" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe>
-            {%- elsif section.settings.video_url.type == 'vimeo' -%}
-            <iframe title="{{ section.settings.title | escape }}" src="https://player.vimeo.com/video/{{ section.settings.video_url.id }}?autoplay=1&autopause=1{% if section.settings.autoplay %}&background=1&loop=1&muted=1{% endif %}&transparent=0&responsive=1&portrait=0&title=0&byline=0&color={{ settings.text_color | remove_first: '#' }}" allow="autoplay; encrypted-media;" allowfullscreen="allowfullscreen"></iframe>
+          {%- if section.settings.video_url.type == 'url' -%}
+          <video autoplay loop muted playsinline width="100%" {% if section.settings.height != 'use_image' %} style="position: absolute;  top: 0;  left: 0;  width: 100%;  height: auto"{% endif %}>
+            <source src="{{ section.settings.video_url }}" type="video/mp4" id="{{ section.id }}">
+          </video> 
           {%- endif -%}
         </template>
       </external-video>
@@ -128,11 +128,10 @@
       "label": "Heading"
     },
     {
-      "type": "video_url",
+      "type": "url",
       "id": "video_url",
-      "accept": ["vimeo", "youtube"],
       "label": "Video",
-      "default": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
+      "default": "https://shopify-cdn"
     },
     {
       "type": "image_picker",
