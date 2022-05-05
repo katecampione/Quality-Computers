@@ -88,10 +88,12 @@
         </div>
 
         <template>
+          {%- if section.settings.video_url.type == 'video_url' -%}
           <video loop="" muted="" autoplay="autoplay" preload="" id="vid">
-            
+            <source src="https://cdn.shopify.com/s/files/1/0641/9093/9354/files/Home_Page_Video.mp4?v=1651778623.webm" type="video/webm">
             <source src="https://cdn.shopify.com/s/files/1/0641/9093/9354/files/Home_Page_Video.mp4?v=1651778623.mp4" type="video/mp4">
           </video>
+          {%- endif -%}
         </template>
       </external-video>
     </div>
@@ -113,7 +115,7 @@
 
 {% schema %}
 {
-  "name": "MP4 Video",
+  "name": "Video",
   "class": "shopify-section--video",
   "settings": [
     {
@@ -127,10 +129,10 @@
       "label": "Heading"
     },
     {
-      "type": "video_url",
+      "type": "url",
       "id": "video_url",
       "label": "Video",
-      "default": ".mp4"
+      "default": "mp4"
     },
     {
       "type": "image_picker",
@@ -205,10 +207,8 @@
   ],
   "presets": [
     {
-      "name": "Mp4 Video"
+      "name": "Video"
     }
   ]
 }
 {% endschema %}
-                
-   
