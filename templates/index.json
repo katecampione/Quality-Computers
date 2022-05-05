@@ -1,7 +1,7 @@
 {
   "sections": {
-    "16517802503444a6af": {
-      "type": "video",
+    "1651781685e9dd0af6": {
+      "type": "Homepage-Video",
       "settings": {
         "subheading": "",
         "title": "",
@@ -449,7 +449,7 @@
     }
   },
   "order": [
-    "16517802503444a6af",
+    "1651781685e9dd0af6",
     "slideshow",
     "featured-collections",
     "image-with-text",
