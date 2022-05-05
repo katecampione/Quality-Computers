@@ -8,7 +8,7 @@
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "background_type": "full_width",
         "video_size": "medium",
-        "autoplay": false,
+        "autoplay": true,
         "background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)"
       }
@@ -396,18 +396,6 @@
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
       }
-    },
-    "16517864652597ad78": {
-      "type": "custom-html",
-      "settings": {
-        "subheading": "Your subheading",
-        "title": "Your title",
-        "html": "<div style=\"text-align: center;\">\n    <video controls=\"true\" autoplay=\"true\" muted=\"true\" width=\"100%\">\n        <source src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0641\/9093\/9354\/files\/Home_Page_Video.mp4?v=1651778623\" type=\" video=\" mp4>\n    <\/source><\/video>\n<\/div>",
-        "add_vertical_spacing": true,
-        "background_type": "full_width",
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
-      }
     }
   },
   "order": [
@@ -422,7 +410,6 @@
     "timeline",
     "featured-product",
     "text-with-icons",
-    "newsletter",
-    "16517864652597ad78"
+    "newsletter"
   ]
 }
