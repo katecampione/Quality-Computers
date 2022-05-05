@@ -67,25 +67,7 @@
   {%- capture video_content -%}
     <div class="video-section video-section--{% if section.settings.background_type == 'boxed' %}boxed{% else %}full{% endif %} video-section--{{ section.settings.video_size }}">
       <external-video {% if section.settings.autoplay %}autoplay{% endif %} provider="{{ section.settings.video_url.type | escape }}" class="video-wrapper {% if section.settings.autoplay %}video-wrapper--inert{% endif %} {% if section.settings.background_type == 'full_width' and section.settings.video_size != 'auto' %}video-wrapper--cover{% endif %}">
-        <div class="video-wrapper__poster">
-          {%- if section.settings.image != blank -%}
-            <img class="video-wrapper__poster-image" loading="lazy" sizes="(max-width: 740px) calc(100vw - 24px * 2), var(--container-max-width)" {% render 'image-attributes', image: section.settings.image, sizes: '400,500,600,700,800,900,1000,1200,1400,1600,1800,2000,2200,2400,2600,2800' %}>
-          {%- else -%}
-            {{- 'lifestyle-1' | placeholder_svg_tag: 'video-wrapper__poster-image placeholder-background' -}}
-          {%- endif -%}
-
-          <div class="video-wrapper__poster-content {% if section.settings.background_type != 'boxed' %}content-box content-box--large content-box--text-center{% endif %}">
-            {%- unless section.settings.autoplay -%}
-              <button type="button" class="video-wrapper__play-button video-wrapper__play-button--large video-wrapper__play-button--ripple" title="{{ 'general.accessibility.play_video' | t | escape }}">
-                {%- render 'icon' with 'play', width: 72, height: 72 -%}
-              </button>
-            {%- endunless -%}
-
-            {%- if section.settings.background_type != 'boxed' -%}
-              {{- section_header -}}
-            {%- endif -%}
-          </div>
-        </div>
+        
 
           <iframe src="https://drive.google.com/file/d/1GXFpB2DgrvbD2FA913RJsELKAwId6mrx/preview" width="640" height="480" allow="autoplay"></iframe>
        
