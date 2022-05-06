@@ -385,12 +385,12 @@
     },
     "newsletter": {
       "type": "newsletter",
-      "disabled": true,
       "settings": {
         "reveal_on_scroll": true,
+        "image": "shopify:\/\/shop_images\/Home_Page.jpg",
         "subheading": "Subscribe to our newsletter",
         "content": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
-        "text_position": "right",
+        "text_position": "center",
         "text_alignment": "left",
         "text_background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)",
