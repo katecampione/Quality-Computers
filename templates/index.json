@@ -385,6 +385,7 @@
     },
     "newsletter": {
       "type": "newsletter",
+      "disabled": true,
       "settings": {
         "reveal_on_scroll": true,
         "subheading": "Subscribe to our newsletter",
