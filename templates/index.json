@@ -1,18 +1,5 @@
 {
   "sections": {
-    "1651786007ec26f7d7": {
-      "type": "video-mp4",
-      "settings": {
-        "subheading": "",
-        "title": "Quality Computer Systems",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "background_type": "full_width",
-        "video_size": "medium",
-        "autoplay": true,
-        "background": "#204a80",
-        "text_color": "rgba(0,0,0,0)"
-      }
-    },
     "featured-collections": {
       "type": "featured-collections",
       "blocks": {
@@ -397,10 +384,22 @@
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
       }
+    },
+    "1652369664f654a007": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "Quality Computers",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=QnXOqdYFzbg&list=PLB27b-KHyfYFT2_nb9ZCRWrsV3ZCbFqJ7",
+        "background_type": "full_width",
+        "video_size": "auto",
+        "autoplay": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
     }
   },
   "order": [
-    "1651786007ec26f7d7",
     "featured-collections",
     "image-with-text",
     "shop-the-look",
@@ -411,6 +410,7 @@
     "timeline",
     "featured-product",
     "text-with-icons",
-    "newsletter"
+    "newsletter",
+    "1652369664f654a007"
   ]
 }
