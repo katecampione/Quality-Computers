@@ -20,10 +20,11 @@
           "type": "collection",
           "settings": {
             "collection": "laptop-system",
+            "image": "shopify:\/\/shop_images\/laptop-on-login-screen.jpg",
             "subheading": "",
             "title": "",
-            "link_text": "",
-            "link_url": "",
+            "link_text": "Laptops",
+            "link_url": "shopify:\/\/collections\/laptop-system",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -33,10 +34,11 @@
           "type": "collection",
           "settings": {
             "collection": "desktop-system",
+            "image": "shopify:\/\/shop_images\/mac-computer-on-desk.jpg",
             "subheading": "",
             "title": "",
-            "link_text": "",
-            "link_url": "",
+            "link_text": "Desktops",
+            "link_url": "shopify:\/\/collections\/desktop-system",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -46,10 +48,11 @@
           "type": "collection",
           "settings": {
             "collection": "monitors",
+            "image": "shopify:\/\/shop_images\/monitor_173e781b-5d5a-461c-89ad-6362849c75cb.jpg",
             "subheading": "",
             "title": "",
-            "link_text": "",
-            "link_url": "",
+            "link_text": "Monitors",
+            "link_url": "shopify:\/\/collections\/monitors",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 30
