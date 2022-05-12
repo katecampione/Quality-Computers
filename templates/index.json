@@ -19,7 +19,7 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "gaming",
             "label": "",
             "button_text": "",
             "button_url": ""
