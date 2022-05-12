@@ -15016,8 +15016,8 @@ shopify-payment-terms {
 	padding: 0px;    
 }
     .ytp-impression-link {
-    display: none;
+    display: none !important;
     }
     .ytp-show-cards-title {
-    display: none;
+    display: none !important;
     }
