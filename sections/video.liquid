@@ -53,15 +53,16 @@
   {%- capture section_header -%}
     {%- if section.settings.subheading != blank or section.settings.title != blank -%}
       <header class="{% if section.settings.background_type == 'boxed' %}section__header{% endif %} text-container">
-        {%- if section.settings.subheading != blank -%}
-          <h2 class="heading heading--small">{{ section.settings.subheading | escape }}</h2>
-        {%- endif -%}
-
-        {%- if section.settings.title != blank -%}
+         {%- if section.settings.title != blank -%}
           <h3 class="heading h2">{{ section.settings.title | escape }}</h3>
         {%- endif -%}
       </header>
     {%- endif -%}
+        {%- if section.settings.subheading != blank -%}
+          <h2 class="heading heading--small">{{ section.settings.subheading | escape }}</h2>
+        {%- endif -%}
+
+       
   {%- endcapture -%}
 
   {%- capture video_content -%}
