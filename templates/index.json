@@ -146,11 +146,11 @@
     "blog-posts": {
       "type": "blog-posts",
       "settings": {
-        "blog": "",
-        "subheading": "Stay up-to-date",
+        "blog": "news",
+        "subheading": "",
         "title": "Blog posts",
         "articles_count": 3,
-        "stack_mobile": false,
+        "stack_mobile": true,
         "show_category": true,
         "show_excerpt": false,
         "background": "rgba(0,0,0,0)",
