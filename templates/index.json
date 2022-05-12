@@ -83,7 +83,7 @@
             "image_width": 100,
             "image_border": "rgba(0,0,0,0)",
             "title": "Quality Care Suite (Local Remote Support)",
-            "content": "<p>We can fix many problems without you bringing your system in.  No geek-speak or fancy lingo here!<\/p>",
+            "content": "<p>We can fix many problems without you bringing your system in. No geek-speak or fancy lingo here!<\/p>",
             "link_text": "Learn More",
             "link_url": "shopify:\/\/pages\/quality-care-suite",
             "link_style": "link",
@@ -105,7 +105,7 @@
         "content": "",
         "column_alignment": "center",
         "mobile_item_size": "medium",
-        "desktop_item_size": "medium",
+        "desktop_item_size": "large",
         "spacing": "normal",
         "background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)"
