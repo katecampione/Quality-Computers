@@ -73,6 +73,19 @@
         "text_color": "rgba(0,0,0,0)"
       }
     },
+    "1652386465de1a7188": {
+      "type": "video-button",
+      "settings": {
+        "subheading": "",
+        "title": "Shop Gaming",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=CNAzBiyow-8",
+        "background_type": "full_width",
+        "video_size": "auto",
+        "autoplay": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
     "1652385917cb00fe42": {
       "type": "video",
       "settings": {
@@ -303,6 +316,7 @@
   "order": [
     "1652369664f654a007",
     "16523848148f95b48c",
+    "1652386465de1a7188",
     "1652385917cb00fe42",
     "featured-collections",
     "1652371873922601c4",
