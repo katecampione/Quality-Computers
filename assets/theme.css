@@ -15021,3 +15021,6 @@ shopify-payment-terms {
     .ytp-show-cards-title {
     display: none !important;
     }
+    #movie_player > div.ytp-chrome-top.ytp-show-cards-title {
+    display: none !important;
+    }
