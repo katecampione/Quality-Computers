@@ -15014,7 +15014,8 @@ shopify-payment-terms {
   	margin-top: 0px;
 }
 #shopify-section-template--16001663271130__1652386948aa77410c > section > div > div > div {
-	padding: 0px;    
+	padding: 0px; 
+  	padding-bottom: 20px;
 }
     .ytp-impression-link {
     display: none !important;
