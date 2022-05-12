@@ -15018,7 +15018,7 @@ shopify-payment-terms {
 	padding: 0px; 
   	
 }
-    .ytp-impression-link {
+   .ytp-impression-link {
     display: none !important;
     }
     .ytp-show-cards-title {
@@ -15030,12 +15030,12 @@ shopify-payment-terms {
     #movie_player > a {
     display: none !important;
     }
-    . ytp-title-channel {
+    .ytp-title-channel {
     	display: none !important;
     }
     #movie_player > div.ytp-chrome-top.ytp-show-cards-title > div.ytp-title-channel > a {
     	display: none !important;
-    
+    }
       #movie_player > div.ytp-chrome-top.ytp-show-cards-title > div.ytp-title > div > a {
       	display: none !important;
       }
