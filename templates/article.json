@@ -3,11 +3,18 @@
     "blog-post-banner": {
       "type": "blog-post-banner",
       "settings": {
+        "show_category": true,
+        "blog_header_background": "#f5f5f5",
+        "blog_header_text_color": "#282828"
       }
     },
     "main": {
       "type": "main-article",
       "settings": {
+        "show_on_scroll_navigation": true,
+        "show_author": false,
+        "show_date": false,
+        "show_share_buttons": true
       }
     },
     "blog-post-prev-next": {
@@ -17,7 +24,9 @@
     },
     "blog-post-comments": {
       "type": "blog-post-comments",
+      "disabled": true,
       "settings": {
+        "show_gravatar": true
       }
     }
   },
