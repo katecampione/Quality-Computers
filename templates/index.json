@@ -1,5 +1,18 @@
 {
   "sections": {
+    "1652369664f654a007": {
+      "type": "video",
+      "settings": {
+        "subheading": "Serving Middle Georgia for over 20 years",
+        "title": "Quality Computers",
+        "video_url": "",
+        "background_type": "full_width",
+        "video_size": "auto",
+        "autoplay": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
     "featured-collections": {
       "type": "featured-collections",
       "blocks": {
@@ -384,22 +397,10 @@
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
       }
-    },
-    "1652369664f654a007": {
-      "type": "video",
-      "settings": {
-        "subheading": "Serving Middle Georgia for over 20 years",
-        "title": "Quality Computers",
-        "video_url": "",
-        "background_type": "full_width",
-        "video_size": "auto",
-        "autoplay": true,
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
-      }
     }
   },
   "order": [
+    "1652369664f654a007",
     "featured-collections",
     "image-with-text",
     "shop-the-look",
@@ -410,7 +411,6 @@
     "timeline",
     "featured-product",
     "text-with-icons",
-    "newsletter",
-    "1652369664f654a007"
+    "newsletter"
   ]
 }
