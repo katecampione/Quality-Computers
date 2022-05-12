@@ -15006,6 +15006,6 @@ shopify-payment-terms {
 }
 #shopify-section-template--16001663271130__1652386465de1a7188 > section > div > external-video > div > div > header > div > button > a {
   color: black;
-  background-color: white;
+  background-color: white !important;
   
 }
