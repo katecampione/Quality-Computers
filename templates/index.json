@@ -137,7 +137,7 @@
         "image_position": "left",
         "text_alignment": "center",
         "cycle_speed": 8,
-        "accent_background": "#102944",
+        "accent_background": "#204a80",
         "text_color": "#ffffff",
         "button_background": "#102944",
         "button_text_color": "#ffffff"
