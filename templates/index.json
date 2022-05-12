@@ -67,10 +67,10 @@
             "image": "shopify:\/\/shop_images\/network.jpg",
             "image_width": 100,
             "image_border": "rgba(0,0,0,0)",
-            "title": "Column 1",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_text": "",
-            "link_url": "",
+            "title": "On-Site Network Evaluation & Repair",
+            "content": "<p>When everything is running slow and you \"just want it fixed.\"<\/p>",
+            "link_text": "Learn More",
+            "link_url": "shopify:\/\/pages\/network-eval-repair",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -79,12 +79,13 @@
         "1652371873f7ff65c0-2": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/qcs.webp",
             "image_width": 100,
             "image_border": "rgba(0,0,0,0)",
-            "title": "Column 1",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_text": "",
-            "link_url": "",
+            "title": "Quality Care Suite (Local Remote Support)",
+            "content": "<p>We can fix many problems without you bringing your system in.  No geek-speak or fancy lingo here!<\/p>",
+            "link_text": "Learn More",
+            "link_url": "shopify:\/\/pages\/quality-care-suite",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
