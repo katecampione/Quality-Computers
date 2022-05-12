@@ -232,7 +232,15 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "11691007085786627848": {
+        "type": "shopify:\/\/apps\/facebook-messenger-live-chat\/blocks\/omg-facebook-chat\/98e24ccd-e637-432a-9298-71c447aac05b",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Carbon": {
