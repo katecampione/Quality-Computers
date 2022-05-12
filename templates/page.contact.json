@@ -8,10 +8,22 @@
         "page_width": "medium"
       }
     },
+    "165238233777647f8a": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "Contact Us",
+        "html": "<p center text-align:=\"\"><a href=\"tel:478-474-0861\">478-474-0861<\/a><\/p>",
+        "add_vertical_spacing": true,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "#282828"
+      }
+    },
     "contact-form": {
       "type": "contact-form",
       "settings": {
-        "title": "Contact Us",
+        "title": "",
         "content": "",
         "text_1_heading": "",
         "text_1_text": "",
@@ -26,6 +38,7 @@
   },
   "order": [
     "main",
+    "165238233777647f8a",
     "contact-form"
   ]
 }
