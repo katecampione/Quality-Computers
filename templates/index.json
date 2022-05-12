@@ -81,7 +81,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/logo.jpg",
             "image_width": 100,
-            "image_border": "rgba(0,0,0,0)",
+            "image_border": "#204a80",
             "title": "Quality Care Suite (Local Remote Support)",
             "content": "<p>We can fix many problems without you bringing your system in. No geek-speak or fancy lingo here!<\/p>",
             "link_text": "Learn More",
