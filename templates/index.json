@@ -49,12 +49,13 @@
         "1652371873f7ff65c0-0": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/electronic-repair.jpg",
             "image_width": 100,
             "image_border": "rgba(0,0,0,0)",
-            "title": "Column 1",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_text": "",
-            "link_url": "",
+            "title": "In-store Electronic Repair",
+            "content": "<p>Sick computer? Our electronic repair experts will get it fixed and back in your hands in no time!<\/p>",
+            "link_text": "Learn More",
+            "link_url": "shopify:\/\/pages\/electronic-repair",
             "link_style": "link",
             "text_alignment": "center",
             "vertical_alignment": "start"
@@ -63,6 +64,7 @@
         "1652371873f7ff65c0-1": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/network.jpg",
             "image_width": 100,
             "image_border": "rgba(0,0,0,0)",
             "title": "Column 1",
@@ -87,27 +89,12 @@
             "text_alignment": "center",
             "vertical_alignment": "start"
           }
-        },
-        "1652371873f7ff65c0-3": {
-          "type": "item",
-          "settings": {
-            "image_width": 100,
-            "image_border": "rgba(0,0,0,0)",
-            "title": "Column 1",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "link",
-            "text_alignment": "center",
-            "vertical_alignment": "start"
-          }
         }
       },
       "block_order": [
         "1652371873f7ff65c0-0",
         "1652371873f7ff65c0-1",
-        "1652371873f7ff65c0-2",
-        "1652371873f7ff65c0-3"
+        "1652371873f7ff65c0-2"
       ],
       "settings": {
         "reveal_on_scroll": true,
