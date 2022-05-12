@@ -19,7 +19,7 @@
         "165238481423a51ca5-0": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "laptop-system",
             "subheading": "",
             "title": "",
             "link_text": "",
@@ -32,7 +32,7 @@
         "165238481423a51ca5-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "desktop-system",
             "subheading": "",
             "title": "",
             "link_text": "",
@@ -45,7 +45,7 @@
         "165238481423a51ca5-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "monitors",
             "subheading": "",
             "title": "",
             "link_text": "",
