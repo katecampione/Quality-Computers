@@ -96,11 +96,11 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "text": {
+          "d9529a05-94a8-4083-83ec-d1bcfe7fa910": {
             "type": "text",
             "settings": {
-              "title": "Quality Computer Services",
-              "content": "<p>478-474-0861<br\/>2940 Riverside Drive<br\/> Macon, GA 31204<\/p>"
+              "title": "Quality Computers",
+              "content": "<p><a href=\"tel:478-474-0861\">478-474-0861<\/a><br>\n<a href=\"https:\/\/www.google.com\/maps\/dir\/\/Quality+Computers,+2940+Riverside+Dr+%23+200,+Macon,+GA+31204\/@35.9905301,-103.341595,5z\/data=!4m9!4m8!1m0!1m5!1m1!1s0x88f3ff2e5ea5c1b9:0xf27feca736ee516!2m2!1d-83.6709954!2d32.8827574!3e0\">2940 Riverside Drive<br>Macon, GA 31204<\/a><\/p>"
             }
           },
           "links": {
@@ -126,7 +126,7 @@
           }
         },
         "block_order": [
-          "text",
+          "d9529a05-94a8-4083-83ec-d1bcfe7fa910",
           "links",
           "newsletter",
           "social_media"
