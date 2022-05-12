@@ -14991,3 +14991,6 @@ shopify-payment-terms {
     scroll-snap-align: center;
   }
 }
+#shopify-section-template--16001663271130__1652369664f654a007 > section > div > external-video > iframe {
+  filter: brightness(0.5);
+}
