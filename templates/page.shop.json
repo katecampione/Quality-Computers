@@ -3,7 +3,8 @@
     "main": {
       "type": "main-list-collections",
       "settings": {
-        "collections_to_show": "selected"
+        "collections_to_show": "all",
+        "show_collection_title": true
       }
     }
   },
