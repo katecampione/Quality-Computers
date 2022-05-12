@@ -41,7 +41,7 @@
 
     --section-background: {{ section_background.red }}, {{ section_background.green }}, {{ section_background.blue }};
   }
-        .ytp-impression-link {
+     .ytp-impression-link {
     display: none !important;
     }
     .ytp-show-cards-title {
@@ -53,7 +53,21 @@
     #movie_player > a {
     display: none !important;
     }
-
+    . ytp-title-channel {
+    	display: none !important;
+    }
+    #movie_player > div.ytp-chrome-top.ytp-show-cards-title > div.ytp-title-channel > a {
+    	display: none !important;
+    
+      #movie_player > div.ytp-chrome-top.ytp-show-cards-title > div.ytp-title > div > a {
+      	display: none !important;
+      }
+      #movie_player > div.ytp-chrome-top.ytp-show-cards-title > div.ytp-chrome-top-buttons {
+      display: none !important;
+      }
+      #movie_player > a.ytp-watermark.yt-uix-sessionlink {
+      display: none !important;
+      }
 </style>
 
 {%- comment -%}
