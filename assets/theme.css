@@ -14994,8 +14994,8 @@ shopify-payment-terms {
 #shopify-section-template--16001663271130__1652369664f654a007 > section > div > external-video > iframe {
   filter: brightness(0.5);
 }
-#shopify-section-template--16001663271130__1652369664f654a007 > section > div > external-video > div > div > header > h2 {
-    font-size: 1.2em;
+#shopify-section-template--16001663271130__1652369664f654a007 > section > div > external-video > div > div > h2 {
+    font-size: 1.0em;
 }
 #shopify-section-template--16001663271130__1652369664f654a007 > section > div > external-video > div > div > header > h3 {
     font-size: 3.2em;
