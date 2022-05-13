@@ -1,0 +1,89 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "16524724431b71c93a": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/Service_Page_-_Network_Evaluation_Repair.jpg",
+        "subheading": "",
+        "title": "ON-SITE NETWORK EVALUATION AND REPAIR",
+        "content": "<p>We offer a full line of Business Services. Sick computer or even worse, Network? We’ll get it fixed and back in your hands in no time!<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "1652472609a718d921": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<p><strong>Whole Network Evaluation<br\/><\/strong>When everything is running slow and you “just want it fixed.”  We can come On-Site and evaluate your network analyze where slowness emanates from and offer a plan to make it run like a cheetah.<\/p><p><strong>Network Administration<br\/><\/strong>When you are not big enough or just do not want your own internal tech staff we can provide you with a network administrator to be able to keep your network secure and running fast.  They can be a part of your on and off boarding team to make sure your team is able to access the data they need and can secure the data that they do not need.<\/p><p><strong>Single System Repair<br\/><\/strong>Sometimes you do not NEED everything redone.  sometimes you just have that one system that is not running right.  We can even just send a repair technician out to fix that one machine.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16524727058ecbc315": {
+      "type": "image-with-text",
+      "blocks": {
+        "16524727058cdbaea9-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/network_65877bda-2bdd-402c-9101-bc47ef8b0d00.jpg",
+            "tab_label": "Item",
+            "subheading": "Reasons You’ll Want to Come to Us for A Network Evaluation:",
+            "title": "",
+            "content": "<p><strong>Fast and Expert Technicians that Listen<br\/><\/strong>When you call on us for a computer repair, you’re getting the best… and we listen! We’ll perform a full diagnostic to identify the problem to ensure your tech is fixed right the first time.<\/p><p><strong>We’ll Explain What We Did<br\/><\/strong>We’re not going to leave you in the dark about what we did, we’re going to make sure that if it was a virus removal, you know what steps we took and how to keep it from happening again.<\/p><p><strong>We Know All Types of Systems<br\/><\/strong>Have you been frustrated in the past trying to find someone to repair an older computer? We know all types of systems and where to get parts for devices that have been around for a while.<\/p><p><strong>Have you been putting off a computer repair or service because you’re short on time? Need a “go to” place that will come to your business for repairs when you need them? <\/strong><a href=\"https:\/\/www.qualitycomputers.com\/contact\"><strong>Contact us<\/strong><\/a><strong>, we’d love to help!<\/strong><\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16524727058cdbaea9-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16524724431b71c93a",
+    "1652472609a718d921",
+    "16524727058ecbc315"
+  ]
+}
