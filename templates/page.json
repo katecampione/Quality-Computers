@@ -47,19 +47,32 @@
         "button_text_color": "rgba(0,0,0,0)"
       }
     },
-    "1652472675417be599": {
-      "type": "image-with-text-block",
+    "16524727058ecbc315": {
+      "type": "image-with-text",
+      "blocks": {
+        "16524727058cdbaea9-0": {
+          "type": "item",
+          "settings": {
+            "tab_label": "Item",
+            "subheading": "Reasons You’ll Want to Come to Us for A Network Evaluation:",
+            "title": "",
+            "content": "<p><strong>Fast and Expert Technicians that Listen<br\/><\/strong>When you call on us for a computer repair, you’re getting the best… and we listen! We’ll perform a full diagnostic to identify the problem to ensure your tech is fixed right the first time.<\/p><p><strong>We’ll Explain What We Did<br\/><\/strong>We’re not going to leave you in the dark about what we did, we’re going to make sure that if it was a virus removal, you know what steps we took and how to keep it from happening again.<\/p><p><strong>We Know All Types of Systems<br\/><\/strong>Have you been frustrated in the past trying to find someone to repair an older computer? We know all types of systems and where to get parts for devices that have been around for a while.<\/p><p><strong>Have you been putting off a computer repair or service because you’re short on time? Need a “go to” place that will come to your business for repairs when you need them? <\/strong><a href=\"https:\/\/www.qualitycomputers.com\/contact\"><strong>Contact us<\/strong><\/a><strong>, we’d love to help!<\/strong><\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16524727058cdbaea9-0"
+      ],
       "settings": {
         "reveal_on_scroll": true,
-        "subheading": "Subheading",
-        "title": "Image with text block",
-        "content": "<p>Use block text to give your customers insight into your brand. Select impactful text that relates to your brand and story.<\/p>",
-        "button_text": "",
-        "button_link": "",
         "background_type": "full_width",
-        "text_position": "left",
+        "background_overlap": "image",
+        "image_position": "left",
         "text_alignment": "center",
-        "text_background": "rgba(0,0,0,0)",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)",
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
@@ -70,6 +83,6 @@
     "main",
     "16524724431b71c93a",
     "1652472609a718d921",
-    "1652472675417be599"
+    "16524727058ecbc315"
   ]
 }
