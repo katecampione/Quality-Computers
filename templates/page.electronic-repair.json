@@ -20,10 +20,29 @@
         "background": "rgba(0,0,0,0)",
         "text_color": "#ffffff"
       }
+    },
+    "1652473801c82c8be9": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<p>Our company has a team of expert computer diagnostic and electronic repair technicians and we make it our priority to get your computer, laptop or mobile device repaired and back to you as fast as possible.<\/p><p><strong>REASONS YOU’LL WANT TO COME TO US FOR ANY ELECTRONIC REPAIR:<\/strong><\/p><p><strong>Fast and Expert Technicians that Listen<br\/><\/strong>When you call on us for a computer repair, you’re getting the best… and we listen! We’ll perform a full diagnostic to identify the problem to ensure your tech is fixed right the first time.<\/p><p><strong>We’ll Explain What We Did<br\/><\/strong>We’re not going to leave you in the dark about what we did, we’re going to make sure that if it was a virus removal, you know what steps we took and how to keep it from happening again.<\/p><p><strong>We Know All Types of Systems<br\/><\/strong>Have you been frustrated in the past trying to find someone to repair an older computer? We know all types of systems and where to get parts for devices that have been around for a while.<\/p><p><strong>Have you been putting off a computer repair or service because you’re short on time? Need a “go to” place that will come to your business for repairs when you need them? <\/strong><a href=\"https:\/\/www.qualitycomputers.com\/contact\"><strong>Contact us<\/strong><\/a><strong>, we’d love to help!<\/strong><\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
     }
   },
   "order": [
     "main",
-    "1652473555e8516820"
+    "1652473555e8516820",
+    "1652473801c82c8be9"
   ]
 }
