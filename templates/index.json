@@ -80,7 +80,7 @@
         "title": "Shop Gaming",
         "video_url": "https:\/\/www.youtube.com\/watch?v=CNAzBiyow-8&showinfo=0",
         "background_type": "full_width",
-        "video_size": "auto",
+        "video_size": "medium",
         "autoplay": true,
         "background": "rgba(0,0,0,0)",
         "text_color": "#ffffff"
