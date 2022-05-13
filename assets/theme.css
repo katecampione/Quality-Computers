@@ -15045,3 +15045,6 @@ shopify-payment-terms {
       #movie_player > a.ytp-watermark.yt-uix-sessionlink {
       display: none !important;
       }
+    #shopify-section-template--16001663271130__blog-posts > section > div > div > div > article-list > div:nth-child(1) > div > h3 {
+    font-size: 20px;
+    }
