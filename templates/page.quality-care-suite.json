@@ -29,10 +29,96 @@
         "show_title": true,
         "page_width": "medium"
       }
+    },
+    "1652471385480b0fff": {
+      "type": "slideshow",
+      "blocks": {
+        "1652471385deca7871-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Quality_Care_info_brochure-page-001.jpg",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "1652471385deca7871-0"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": false,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "1652471536df6fa8e0": {
+      "type": "slideshow",
+      "blocks": {
+        "165247153614ba19e0-0": {
+          "type": "image",
+          "settings": {
+            "text_position": "middle_center",
+            "subheading": "Tell your story",
+            "title": "Slide 1",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "165247153614ba19e0-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Quality_Care_info_brochure-page-002.jpg",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "165247153614ba19e0-0",
+        "165247153614ba19e0-1"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
     }
   },
   "order": [
     "1651805412fb16b945",
-    "main"
+    "main",
+    "1652471385480b0fff",
+    "1652471536df6fa8e0"
   ]
 }
