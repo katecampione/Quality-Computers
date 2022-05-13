@@ -3,7 +3,7 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "show_title": true,
+        "show_title": false,
         "page_width": "medium"
       }
     },
@@ -13,6 +13,7 @@
         "subheading": "Sick computer? We’ll get it fixed and back in your hands in no time!",
         "title": "Electronic Repair",
         "video_url": "https:\/\/www.youtube.com\/watch?v=lU4871KNzgE",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-05-13_at_2.28.31_PM.png",
         "background_type": "full_width",
         "video_size": "auto",
         "autoplay": true,
