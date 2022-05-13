@@ -6,9 +6,23 @@
         "show_title": true,
         "page_width": "medium"
       }
+    },
+    "1652473555e8516820": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "Electronic Repair",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=lU4871KNzgE",
+        "background_type": "full_width",
+        "video_size": "auto",
+        "autoplay": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "#ffffff"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1652473555e8516820"
   ]
 }
