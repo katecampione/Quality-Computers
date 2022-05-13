@@ -3,10 +3,73 @@
     "main": {
       "type": "main-page",
       "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "16524724431b71c93a": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "medium",
+        "image": "shopify:\/\/shop_images\/Service_Page_-_Network_Evaluation_Repair.jpg",
+        "subheading": "",
+        "title": "ON-SITE NETWORK EVALUATION AND REPAIR",
+        "content": "<p>We offer a full line of Business Services. Sick computer or even worse, Network? We’ll get it fixed and back in your hands in no time!<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "1652472609a718d921": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<p><strong>Whole Network Evaluation<br\/><\/strong>When everything is running slow and you “just want it fixed.”  We can come On-Site and evaluate your network analyze where slowness emanates from and offer a plan to make it run like a cheetah.<\/p><p><strong>Network Administration<br\/><\/strong>When you are not big enough or just do not want your own internal tech staff we can provide you with a network administrator to be able to keep your network secure and running fast.  They can be a part of your on and off boarding team to make sure your team is able to access the data they need and can secure the data that they do not need.<\/p><p><strong>Single System Repair<br\/><\/strong>Sometimes you do not NEED everything redone.  sometimes you just have that one system that is not running right.  We can even just send a repair technician out to fix that one machine.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1652472675417be599": {
+      "type": "image-with-text-block",
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "Subheading",
+        "title": "Image with text block",
+        "content": "<p>Use block text to give your customers insight into your brand. Select impactful text that relates to your brand and story.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_position": "left",
+        "text_alignment": "center",
+        "text_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16524724431b71c93a",
+    "1652472609a718d921",
+    "1652472675417be599"
   ]
 }
