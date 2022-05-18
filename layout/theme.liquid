@@ -78,7 +78,9 @@ NOTE TO DEVELOPERS: welcome to Focal theme! We hope that you will enjoy editing 
     <script src="{{ 'custom.js' | asset_url }}" defer></script>
 
     {{ content_for_header }}
-  </head>
+  
+                    {% render 'omg-facebook-chat' %}
+                </head>
 
   {%- assign feature_classes = '' -%}
 
