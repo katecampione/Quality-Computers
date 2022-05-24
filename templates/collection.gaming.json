@@ -13,6 +13,20 @@
         "quick_links": ""
       }
     },
+    "16533510200f5494cb": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=CNAzBiyow-8",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-05-13_at_2.35.40_PM.png",
+        "background_type": "full_width",
+        "video_size": "small",
+        "autoplay": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
     "main": {
       "type": "main-collection",
       "settings": {
@@ -32,6 +46,7 @@
   },
   "order": [
     "collection-banner",
+    "16533510200f5494cb",
     "main"
   ]
 }
