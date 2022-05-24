@@ -17,10 +17,10 @@
       "type": "video",
       "settings": {
         "subheading": "",
-        "title": "Accessories & More",
+        "title": "",
         "video_url": "https:\/\/www.youtube.com\/watch?v=mvG4K0dXt_o",
         "background_type": "full_width",
-        "video_size": "auto",
+        "video_size": "small",
         "autoplay": true,
         "background": "rgba(0,0,0,0)",
         "text_color": "rgba(0,0,0,0)"
