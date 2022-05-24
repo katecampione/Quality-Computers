@@ -5,7 +5,7 @@
       "settings": {
         "show_collection_image": true,
         "show_collection_description": true,
-        "section_height": "small",
+        "section_height": "medium",
         "text_width": "medium",
         "image_text_color": "#ffffff",
         "image_overlay_color": "#000000",
