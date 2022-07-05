@@ -20,7 +20,7 @@
         "165238481423a51ca5-0": {
           "type": "collection",
           "settings": {
-            "collection": "laptop-system",
+            "collection": "laptops",
             "image": "shopify:\/\/shop_images\/laptop-on-login-screen.jpg",
             "subheading": "",
             "title": "Laptops",
@@ -34,7 +34,7 @@
         "165238481423a51ca5-1": {
           "type": "collection",
           "settings": {
-            "collection": "desktop-system",
+            "collection": "desktops",
             "image": "shopify:\/\/shop_images\/mac-computer-on-desk.jpg",
             "subheading": "",
             "title": "Desktops",
