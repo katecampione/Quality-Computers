@@ -32,7 +32,7 @@
     "show_secondary_image": true,
     "show_product_rating": false,
     "product_color_display": "count",
-    "product_image_size": "natural",
+    "product_image_size": "square",
     "cart_type": "message",
     "cart_show_free_shipping_threshold": true,
     "social_facebook": "https:\/\/www.facebook.com\/QualityComputerSystems\/",
