@@ -44,26 +44,11 @@
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
-        },
-        "165238481423a51ca5-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "monitors",
-            "image": "shopify:\/\/shop_images\/monitor_173e781b-5d5a-461c-89ad-6362849c75cb.jpg",
-            "subheading": "",
-            "title": "Monitors",
-            "link_text": "",
-            "link_url": "shopify:\/\/collections\/monitors",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
         }
       },
       "block_order": [
         "165238481423a51ca5-0",
-        "165238481423a51ca5-1",
-        "165238481423a51ca5-2"
+        "165238481423a51ca5-1"
       ],
       "settings": {
         "reveal_on_scroll": false,
