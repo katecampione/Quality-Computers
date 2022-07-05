@@ -34,7 +34,7 @@
     "product_color_display": "count",
     "product_image_size": "square",
     "cart_type": "message",
-    "cart_show_free_shipping_threshold": true,
+    "cart_show_free_shipping_threshold": false,
     "social_facebook": "https:\/\/www.facebook.com\/QualityComputerSystems\/",
     "social_twitter": "https:\/\/twitter.com\/QCSMacon",
     "social_instagram": "https:\/\/www.instagram.com\/qualitycomputersga\/?hl=en",
