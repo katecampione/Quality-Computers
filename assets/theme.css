@@ -15059,3 +15059,6 @@ padding-bottom: 0px;
   src: url("https://cdn.shopify.com/s/files/1/0641/9093/9354/files/Brolink.woff2?v=1663611421") format("woff2"),
        url ("https://cdn.shopify.com/s/files/1/0641/9093/9354/files/Brolink.woff?v=1663611421") format ("woff");
 }
+#main > div.shopify-policy__container > div.shopify-policy__title.page-header__text-wrapper {
+  display: none;
+}
