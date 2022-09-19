@@ -433,5 +433,13 @@
       "description": "Sorry, this page does not exist.",
       "back_to_home": "Back to home"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "shop_policies": {
+        "refund_policy": "Returns\/Refunds",
+        "shipping_policy": "Pick Up\/Fulfillment"
+      }
+    }
   }
 }
