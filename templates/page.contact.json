@@ -39,7 +39,7 @@
       "type": "image-with-text-overlay",
       "settings": {
         "reveal_on_scroll": true,
-        "section_height": "medium",
+        "section_height": "auto",
         "image": "shopify:\/\/shop_images\/map_949a7620-c51e-4051-821f-bb562dcbe556.png",
         "subheading": "",
         "title": "",
