@@ -15056,6 +15056,6 @@ padding-bottom: 0px;
     }
 @font-face {
   font-family: "Brolink";
-  src: url("Brolink.woff2") format("woff2"),
-       url ("Brolink.woff") format ("woff");
+  src: url("https://cdn.shopify.com/s/files/1/0641/9093/9354/files/Brolink.woff2?v=1663611421") format("woff2"),
+       url ("https://cdn.shopify.com/s/files/1/0641/9093/9354/files/Brolink.woff?v=1663611421") format ("woff");
 }
