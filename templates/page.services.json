@@ -54,28 +54,12 @@
             "text_alignment": "center",
             "vertical_alignment": "start"
           }
-        },
-        "1663614080b936f1a2-3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/connect.png",
-            "image_width": 100,
-            "image_border": "#204a80",
-            "title": "Connect 2 Compete",
-            "content": "<p>Here at Quality Computers we work with ConnectMacon.com, to help do our part in making the world a better place for all. <\/p>",
-            "link_text": "Read More",
-            "link_url": "shopify:\/\/pages\/connect-to-compete",
-            "link_style": "button",
-            "text_alignment": "center",
-            "vertical_alignment": "start"
-          }
         }
       },
       "block_order": [
         "1663614080b936f1a2-1",
         "1663614080b936f1a2-2",
-        "1663614080b936f1a2-0",
-        "1663614080b936f1a2-3"
+        "1663614080b936f1a2-0"
       ],
       "settings": {
         "reveal_on_scroll": true,
