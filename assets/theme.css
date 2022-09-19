@@ -469,7 +469,7 @@ p b {
 .rte h6,
 .rte blockquote {
   display: block;
-  font-family: var(--heading-font-family);
+  font-family: "Brolink";
   font-weight: var(--heading-font-weight);
   font-style: var(--heading-font-style);
   color: rgb(var(--heading-color));
