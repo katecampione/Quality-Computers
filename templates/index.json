@@ -14,6 +14,24 @@
         "text_color": "#ffffff"
       }
     },
+    "1663617542cf305674": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Welcome To Quality Computers!",
+        "content": "<p>Our dedication to Middle Georgia began in 1988 in the garage of our founder, Gene Bell, and has been proudly locally owned since that time. Carrying on the local tradition, three of our longtime employees, Wesley Reagan, Mike Fowler, and Stephen Rish took ownership in 2020. We are honored to continue providing the best in service and product to our community. Our skilled technicians provide accurate diagnosis, product knowledge, and repair of legacy to today’s leading machines! Browse our website to learn more about our provided services and all things information technology!<\/p><p>As always, thank you for choosing Quality!<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
     "16523848148f95b48c": {
       "type": "collection-list",
       "blocks": {
@@ -269,6 +287,7 @@
   },
   "order": [
     "1652369664f654a007",
+    "1663617542cf305674",
     "16523848148f95b48c",
     "1652386465de1a7188",
     "featured-collections",
