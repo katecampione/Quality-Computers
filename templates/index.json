@@ -283,6 +283,75 @@
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
       }
+    },
+    "fc6e97e2-3e5a-461b-bbff-f7a26e57008e": {
+      "type": "promotion-blocks",
+      "disabled": true,
+      "blocks": {
+        "template--16001663271130__fc6e97e2-3e5a-461b-bbff-f7a26e57008e-1666567471e8f297af-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-removebg-preview.png",
+            "highlight": false,
+            "subheading": "Subheading",
+            "title": "Image with text",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "template--16001663271130__fc6e97e2-3e5a-461b-bbff-f7a26e57008e-1666567471e8f297af-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-removebg-preview.png",
+            "highlight": false,
+            "subheading": "adfadfadfadfadfdfadfadf",
+            "title": "Monitored Anti-Virus",
+            "link_text": "read more",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#cec145"
+          }
+        },
+        "8edea70b-b1ec-445a-8fc8-29548ff65db9": {
+          "type": "image",
+          "settings": {
+            "highlight": false,
+            "subheading": "Subheading",
+            "title": "Image with text",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#1e316a",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        }
+      },
+      "block_order": [
+        "template--16001663271130__fc6e97e2-3e5a-461b-bbff-f7a26e57008e-1666567471e8f297af-0",
+        "template--16001663271130__fc6e97e2-3e5a-461b-bbff-f7a26e57008e-1666567471e8f297af-2",
+        "8edea70b-b1ec-445a-8fc8-29548ff65db9"
+      ],
+      "settings": {
+        "subheading": "Subheading",
+        "title": "Promotion blocks",
+        "section_size": "large",
+        "stack_on_mobile": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
     }
   },
   "order": [
@@ -295,6 +364,7 @@
     "1652371873922601c4",
     "blog-posts",
     "text-with-icons",
-    "newsletter"
+    "newsletter",
+    "fc6e97e2-3e5a-461b-bbff-f7a26e57008e"
   ]
 }
